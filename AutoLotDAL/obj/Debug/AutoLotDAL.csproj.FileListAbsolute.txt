@@ -1,0 +1,4 @@
+D:\05-Programming\C#\00-basicKnowdlegeTest\Database\AutoLotDAL\AutoLotDAL\bin\Debug\AutoLotDAL.dll
+D:\05-Programming\C#\00-basicKnowdlegeTest\Database\AutoLotDAL\AutoLotDAL\bin\Debug\AutoLotDAL.pdb
+D:\05-Programming\C#\00-basicKnowdlegeTest\Database\AutoLotDAL\AutoLotDAL\obj\Debug\AutoLotDAL.dll
+D:\05-Programming\C#\00-basicKnowdlegeTest\Database\AutoLotDAL\AutoLotDAL\obj\Debug\AutoLotDAL.pdb
